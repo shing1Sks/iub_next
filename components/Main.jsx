@@ -233,8 +233,8 @@ export function Main() {
               <CardContent>
                 <div className="space-y-2">
                   <p>
-                    If you have any questions or need help, don't hesitate to
-                    reach out to us.
+                    If you have any questions or need help, don&apos;t hesitate
+                    to reach out to us.
                   </p>
                   <Button href="/contact">Contact Us</Button>
                 </div>
